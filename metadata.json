@@ -1,0 +1,32 @@
+{
+  "name": "ffmpeg",
+  "description": "Installs/Configures ffmpeg",
+  "long_description": "Installs FFMPEG from deb package",
+  "maintainer": "Orange Room Software",
+  "maintainer_email": "phill@ors.bz",
+  "license": "MIT",
+  "platforms": {
+    "ubuntu": ">= 0.0.0",
+    "debian": ">= 0.0.0"
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "ffmpeg": "Installs ffmpeg package"
+  },
+  "version": "0.1.0"
+}
